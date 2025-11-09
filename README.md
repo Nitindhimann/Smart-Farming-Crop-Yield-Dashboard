@@ -53,7 +53,7 @@ README.md---------------Project overview file
 
 Nitin Dhiman
 📍 Kangra, Himachal Pradesh
-🎓 MCA Student | Lovely Professional University
+🎓 MCA Graduate | Lovely Professional University
 💻 Passionate about Data Analytics & Visualization
 
 🏷️ Tags
